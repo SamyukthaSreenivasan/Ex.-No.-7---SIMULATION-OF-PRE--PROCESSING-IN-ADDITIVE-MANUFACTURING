@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SamyukthaSreenivasan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475703/256abde6-e837-4aa5-a6ca-c8c9bdcea15c)
+
+
+### Name:Samyuktha S
+### Register Number: 212222240089
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
